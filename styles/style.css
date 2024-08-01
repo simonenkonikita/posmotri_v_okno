@@ -291,7 +291,7 @@ margin-left: 0;
   color: #fff;
   text-overflow: ellipsis;
   overflow:hidden;
-  white-space: pre-wrap;
+  white-space: nowrap;
 }
 
 .content__video-card-description {
